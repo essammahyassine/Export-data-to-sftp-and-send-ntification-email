@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.34112.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "kompass", "kompass\kompass.dtproj", "{E925FF83-9C02-49B0-8537-5D50C7548F60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E925FF83-9C02-49B0-8537-5D50C7548F60}.Development|Default.ActiveCfg = Development
+		{E925FF83-9C02-49B0-8537-5D50C7548F60}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EB48CF6-EDFE-4B8E-B63A-6B3B1EDE3CAB}
+	EndGlobalSection
+EndGlobal
